@@ -12,6 +12,23 @@ Computer Engineering Technology Students | Exploring Future Technologies
 
 ---
 
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/ksatria_jalurgaza" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/su-jono" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
+  </a>
+</p>
+
+---
+
+
 ## 📌 Currently Learning
 
 - IoT
@@ -19,3 +36,4 @@ Computer Engineering Technology Students | Exploring Future Technologies
 - Cyber Scurity
 - Web Development
 - UI/UX
+
