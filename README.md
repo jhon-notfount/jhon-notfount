@@ -1,6 +1,6 @@
 # Hi, I'm Jhon 👋
 
-Computer Engineering Student | Exploring Cloud and Web Technology
+Computer Engineering Technology Students | Exploring Future Technologies
 
 ---
 
@@ -18,3 +18,4 @@ Computer Engineering Student | Exploring Cloud and Web Technology
 - Git & GitHub
 - Cyber Scurity
 - Web Development
+- UI/UX
