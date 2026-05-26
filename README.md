@@ -21,7 +21,7 @@ Computer Engineering Technology Students | Exploring Future Technologies
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" />
   </a>
 
-  <a href="https://www.linkedin.com/in/su-jono" target="_blank">
+  <a href="https://www.linkedin.com/in/su-jono-8030a3380" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" />
   </a>
 </p>
